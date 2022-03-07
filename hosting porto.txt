@@ -1,0 +1,6 @@
+project: Portofolio_Laila
+pass : 4GvM#bReBWXh%VCmmysx
+
+app key: 8Nhfdoyy7/kVYsC5rQsPexW4WSQmPu4b0V02TvvEE+A=
+
+https://portofoliolaila.000webhostapp.com/
